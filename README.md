@@ -1,5 +1,6 @@
 # Scratch-HRTP
 ![start](./screenshots/1.png)
+
 This project was created as an assignment for the [CS50](https://cs50.harvard.edu/x/2023/psets/0/scratch/) course.
 
 Scratch-HRTP is a game created in Scratch, inspired by the first Touhou game, ["Highly Responsive to Prayers"](https://en.wikipedia.org/wiki/Highly_Responsive_to_Prayers). In this game, you'll embark on a challenging journey through 5 stages filled with obstacles, and your goal is to break all the tiles with a yin-yang orb while staying alive.
